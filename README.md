@@ -8,6 +8,10 @@
  git clone https://github.com/IsmailAISSAMI/nba-app-mobile.git
 ```
 
+### Install modules
+```
+npm install
+``` 
 
 ### Start Metro
 
