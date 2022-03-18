@@ -5,7 +5,7 @@
 ### Clone the project
 
 ```
-
+ git clone https://github.com/IsmailAISSAMI/nba-app-mobile.git
 ```
 
 
